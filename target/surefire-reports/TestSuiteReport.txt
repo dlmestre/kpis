@@ -1,0 +1,11 @@
+[36mDiscovery starting.[0m
+[36mDiscovery completed in 114 milliseconds.[0m
+[36mRun starting. Expected test count is: 1[0m
+[32mLaunchAppTest:[0m
+[32mTransform gsn users[0m
+[32m- should run[0m
+[36mRun completed in 197 milliseconds.[0m
+[36mTotal number of tests run: 1[0m
+[36mSuites: completed 2, aborted 0[0m
+[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m
+[32mAll tests passed.[0m
