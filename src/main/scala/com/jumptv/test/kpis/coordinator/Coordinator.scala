@@ -5,9 +5,9 @@ import com.jumptv.test.suite.commons.Variables._
 
 object Coordinator {
 
-  def run(map: Map[String, String]): String = {
+  def run(map: Map[String, String]): (String, String) = {
     println(map.get(subscriberid))
-    map.get(subscriberid).getOrElse(NA)
+    (map.get(subscriberid).getOrElse(NA), map.get(producttype).getOrElse(NA))
   }
 
 }
